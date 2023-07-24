@@ -1,0 +1,99 @@
+.container{
+    width: 1000px;
+    height: 500px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 10px 2px grey;
+}
+ 
+ul{
+    list-style: none;
+    display: flex;
+}
+.google{
+     
+    margin-left: 420px;
+} 
+.google ul li {
+    font-size: 2em;
+    letter-spacing:1px;
+    
+    
+}
+ul li:nth-child(1){
+    color: blue;
+}
+ul li:nth-child(2){
+     color: red;
+}
+ul li:nth-child(3){
+    color:yellow;
+}
+ul li:nth-child(4){
+    color: blue;
+}
+ul li:nth-child(5){
+    color: green;
+}
+ul li:nth-child(6){
+    color: red;
+}
+.sub{
+    text-align: center;
+    font-size: 25px;
+}
+.anane input[type=text]{
+    width: 500px;
+    height: 35px;
+    
+}
+.anane form{
+    text-align: center;
+}
+.adusei{
+    margin-left: 250px;
+    color:blue;
+    font-size: larger;
+}
+.azonto{
+    margin-left: 250px;
+    
+    
+}
+.martial{
+    margin-left: 250px;
+    color: blue;
+}
+.kesley label{
+    font-size:20px ;
+    color: blue;
+    margin-left:250px ;
+}
+.kesley input[type=button]{
+    width: 70px;
+    height: 40px;
+    background: blue;
+    color: beige;
+    font-weight: bolder;
+    margin-left: 320px;
+    
+}    
+
+
+    
+    
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+
+
